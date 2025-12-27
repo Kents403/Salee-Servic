@@ -1,0 +1,6 @@
+config.js
+.env
+secrets/
+*.token
+node_modules/
+.DS_Store
